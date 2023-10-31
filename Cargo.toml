@@ -1,0 +1,18 @@
+[package]
+name = "minecraft_server_creator"
+version = "0.1.0-SNAPSHOT"
+edition = "2021"
+authors = [
+    "iXOR Technology",
+    "Qian Qian \"Cubik\" (Cubik65536) <cubik65536@cubik65536.top>"
+]
+description = "A simple command line utility that helps to create Minecraft servers with different configurations."
+repository = "https://github.com/iXORTech/MinecraftServerCreator"
+categories = ["command-line-utilities"]
+readme = "README.md"
+license = "MPL-2.0"
+keywords = ["minecraft", "minecraft-server", "mc-server-creator", "modrinth", "curseforge"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
