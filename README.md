@@ -31,6 +31,8 @@ If you feel discomfort about the announcement above, you should consider stoppin
 
 ## 🎊 Thanks
 
+Special Thanks to [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) project (licensed under MPL-2.0) for providing the part of the project idea and some of the mod downloading/updating code.
+
 Special Thanks to [JetBrains](https://www.jetbrains.com/?from=RemoteMC-Core) for providing us free Licenses for Open Source Development for IDEs such as [RustRover](https://www.jetbrains.com/rust/)
 
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" height="96"/>](https://www.jetbrains.com/?from=RemoteMC-Core)
