@@ -665,6 +665,7 @@ dependencies = [
  "ferinth",
  "furse",
  "reqwest",
+ "serde_json",
  "tokio",
 ]
 

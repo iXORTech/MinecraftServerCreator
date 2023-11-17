@@ -21,6 +21,8 @@ clap = { version = "4.4.8", features = ["derive"] }
 # HTTP client
 reqwest = { version = "0.11", features = ["blocking", "json"] }
 tokio = { version = "1", features = ["full"] }
+# JSON library
+serde_json = "1.0"
 # Modrinth and Curseforge API wrapper
 ferinth = "2.9.2"
 furse = "1.5.12"
