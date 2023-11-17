@@ -16,3 +16,5 @@ keywords = ["minecraft", "minecraft-server", "mc-server-creator", "modrinth", "c
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+ferinth = "2.9.2"
+furse = "1.5.12"
