@@ -12,6 +12,10 @@
   </a>
 </p>
 
+## ⚙️ Requirements
+
+- \[Linux\] OpenSSL 1.0.1, 1.0.2, 1.1.0, or 1.1.1 with headers
+
 ## 🔉 Announcement
 
 This announcement is made due to the [disharmony event of Mirai](https://github.com/mamoe/mirai/issues/850).

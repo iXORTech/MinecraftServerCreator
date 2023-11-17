@@ -18,6 +18,9 @@ keywords = ["minecraft", "minecraft-server", "mc-server-creator", "modrinth", "c
 [dependencies]
 # CLI parser library
 clap = { version = "4.4.8", features = ["derive"] }
+# HTTP client
+reqwest = { version = "0.11", features = ["blocking", "json"] }
+tokio = { version = "1", features = ["full"] }
 # Modrinth and Curseforge API wrapper
 ferinth = "2.9.2"
 furse = "1.5.12"
